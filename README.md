@@ -1,1 +1,1 @@
-periodgaming.github.io.git
+periodgaming.github.io
